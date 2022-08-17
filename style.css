@@ -21,8 +21,6 @@ input:focus {
   border-radius: 1px;
 }
 #heading {
-  position: absolute;
-  top: 30px;
   font-family: "Fira Sans", sans-serif;
   color: #227be0;
 }
